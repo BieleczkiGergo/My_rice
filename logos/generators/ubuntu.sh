@@ -1,0 +1,23 @@
+#! /bin/sh
+
+# shellcheck disable=SC2028
+echo "                             \e[0;31;1m.....         "
+echo "              \e[0;2;39m.,r:clooo:\e[0;31;1m  .:looooob.       "
+echo "           \e[0;2;39m.;looooooooc\e[0;31;1m  .oooooooooo:      "
+echo "        \e[0;2;39m.;looooool:,''.\e[0;31;1m  :ooooooooooc      "
+echo "       \e[0;2;39m;looool;.\e[0;31;1m         'oooooooooo;      "
+echo "      \e[0;2;39m;clool'\e[0;31;1m             \"cooooooc:  \e[0;2;39m,,\e[0m   "
+echo "         \e[0;2;39m...\e[0;31;1m                \"^^^^'  \e[0;2;39m.:oo,\e[0m  "
+echo "  \e[0;31;1m.;clol:,.                        \e[0;2;39m.loooo'\e[0m "
+echo " \e[0;31;1m:ooooooooo,                        \e[0;2;39m'ooool\e[0m "
+echo "\e[0;31;1m'ooooooooooo.                        \e[0;2;39mloooo."
+echo "\e[0;31;1m'ooooooooool       \e[0;1mKolegatop         \e[0;2;39mcoooo."
+echo " \e[0;31;1mqloooooooc.                        \e[0;2;39m.loooo."
+echo "  \e[0;31;1m'booood'                           \e[0;2;39m;ooooc\e[0m "
+echo "       \e[0;2;39m...\e[0m                         \e[0;2;39m,ooool. "
+echo "    \e[0;2;39m.cooooc.\e[0;31;1m              ..:;;:.  \e[0;2;39m.cooo.\e[0m  "
+echo "      \e[0;2;39m;ooooo:.\e[0;31;1m           ;oooooooc.  \e[0;2;39m:l.\e[0m   "
+echo "       \e[0;2;39m.coooooc,..\e[0;31;1m      coooooooooo.       "
+echo "         \e[0;2;39m.:ooooooolc:.\e[0;31;1m  ooooooooooo;       "
+echo "           \e[0;2;39m.':loooooo;\e[0;31;1m  ,oooooooooc        "
+echo "               \e[0;2;39m..';::c'\e[0;31;1m  .;loooo:'         "
