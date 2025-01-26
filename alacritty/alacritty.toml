@@ -1,0 +1,23 @@
+import = [
+    "~/.config/alacritty/colors.toml",
+    "~/.config/alacritty/fonts.toml"
+    
+]
+
+[window]
+opacity = 0.8
+startup_mode = "Maximized"
+
+[window.padding]
+x = 10
+y = 5
+
+
+[bell.command]
+program = "mpv"
+args = ["/home/kolega/.config/alacritty/bell_sound.mp3"]
+
+
+[shell]
+program = "/bin/tmux"
+

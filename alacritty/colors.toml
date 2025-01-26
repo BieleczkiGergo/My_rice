@@ -1,0 +1,32 @@
+# Author: Kolega aka Tipikaly
+# My default color plaette for Alacritty terminal
+
+[colors.normal]
+black =     "#262626"
+red =       "#ff0000"
+green =     "#33cc33"
+yellow =    "#ffff00"
+blue =      "#0066ff"
+magenta =   "#ff00ff"
+cyan =      "#00ffff"
+white =     "#f2f2f2"
+
+[colors.bright]
+black =     "#404040"
+red =       "#ff4d4d"
+green =     "#5cd65c"
+yellow =    "#ffff33"
+blue =      "#3385ff"
+magenta =   "#ff4dff"
+cyan =      "#66ffff"
+white =     "#ffffff"
+
+[colors.dim]
+black =     "#000000"
+red =       "#b30000"
+green =     "#248f24"
+yellow =    "#b3b300"
+blue =      "#0047b3"
+magenta =   "#cc00cc"
+cyan =      "#00cccc"
+white =     "#e6e6e6"
