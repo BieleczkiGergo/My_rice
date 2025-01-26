@@ -1,5 +1,5 @@
 # Author: Kolega aka Tipikaly
-# My default color plaette for Alacritty terminal
+# My default color palette for Alacritty terminal
 
 [colors.normal]
 black =     "#262626"
