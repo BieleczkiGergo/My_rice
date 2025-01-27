@@ -1,0 +1,22 @@
+#! /bin/sh
+
+# shellcheck disable=SC2028
+echo "\e[0;36m                  -\`"
+echo "\e[0;36m                 .o+\`"
+echo "\e[0;36m                \`ooo/"
+echo "\e[0;36m               \`+oooo:"
+echo "\e[0;36m              \`+oooooo:"
+echo "\e[0;36m              -+oooooo+:"
+echo "\e[0;36m            \`/:-:++oooo+:"
+echo "\e[0;36m           \`/++++/+++++++:"
+echo "\e[0;36m          \`/++++++++++++++:"
+echo "\e[0;36m         \`/+++ooooooooooooo/\`"
+echo "\e[0;36m        ./ooosssso++osssssso+\`"
+echo "\e[0;36m       .oossssso-\`\`\`\`/ossssss+\`"
+echo "\e[0;36m      -osssssso.      :ssssssso."
+echo "\e[0;36m     :osssssss/        osssso+++."
+echo "\e[0;36m    /ossssssss/        +ssssooo/-"
+echo "\e[0;36m  \`/ossssso+/:-        -:/+osssso+-"
+echo "\e[0;36m \`+sso+:-\`                 \`.-/+oso:"
+echo "\e[0;36m\`++:.                           \`-/+/"
+echo "\e[0;36m.\`                                 \`/"

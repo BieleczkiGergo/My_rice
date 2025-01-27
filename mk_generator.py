@@ -16,6 +16,7 @@ def make_generator(in_path : str, out_path : str):
     outFile.write(generator_start)
     for line in inFile.readlines():
         line = line[:-1]
+        line = line.replace("\\", "\\\\")
         line = line.replace("\"", "\\\"")
         #line = line.replace("\'", "\\\'")
         line = line.replace("`", "\\`")
