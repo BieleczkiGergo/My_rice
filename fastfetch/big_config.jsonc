@@ -26,7 +26,11 @@
   ],
   "logo" : {
     "type": "file",
-    "source": "~/.config/fastfetch/ubuntu.txt"
+    "source": "~/.config/fastfetch/logo_l.txt"
+    
+  },
+  "display": {
+    "color" : "green"
     
   }
 }

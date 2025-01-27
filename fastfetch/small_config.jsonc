@@ -15,7 +15,7 @@
   ],
   "logo" : {
     "type": "file",
-    "source": "~/.config/fastfetch/ubuntu_small.txt"
+    "source": "~/.config/fastfetch/logo_s.txt"
     
   }
 }
