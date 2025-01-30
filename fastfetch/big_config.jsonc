@@ -29,8 +29,8 @@
     "source": "~/.config/fastfetch/logo_l.txt"
     
   },
-  "display": {
+  /* "display": {
     "color" : "green"
     
-  }
+  }*/
 }

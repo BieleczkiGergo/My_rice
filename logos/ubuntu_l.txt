@@ -1,0 +1,20 @@
+                             [0;31;1m.....         
+              [0;2;39m.,r:clooo:[0;31;1m  .:looooob.       
+           [0;2;39m.;looooooooc[0;31;1m  .oooooooooo:      
+        [0;2;39m.;looooool:,''.[0;31;1m  :ooooooooooc      
+       [0;2;39m;looool;.[0;31;1m         'oooooooooo;      
+      [0;2;39m'clool'[0;31;1m             "cooooooc:  [0;2;39m,,[0m   
+         [0;2;39m"""[0;31;1m                "^^^^'  [0;2;39m.:oo,[0m  
+  [0;31;1m.;clObl;.                        [0;2;39m.loooo'[0m 
+ [0;31;1m:ooooooooo,                        [0;2;39m"ooool[0m 
+[0;31;1m'ooooooooooo.                        [0;2;39mloooo.
+[0;31;1m'ooooooooool       [0;1mKolegatop         [0;2;39mcoooo.
+ [0;31;1mqloooooooc.                        [0;2;39m.loooo.
+  [0;31;1m'booood^                          [0;2;39m;ooooc[0m 
+       [0;2;39m...[0m                         [0;2;39m,ooool. 
+    [0;2;39m.cooooc.[0;31;1m              ..:;;:.  [0;2;39m.cooo.[0m  
+      [0;2;39m;ooooo:.[0;31;1m           ;oooooooc.  [0;2;39m:l.[0m   
+       [0;2;39m.coooooc,..[0;31;1m      coooooooooo.       
+         [0;2;39m.:ooooooolc:.[0;31;1m  ooooooooooo;       
+           [0;2;39m.':loooooo;[0;31;1m  'oooooooooc        
+               [0;2;39m..';::c'[0;31;1m  ';loooo:'         
