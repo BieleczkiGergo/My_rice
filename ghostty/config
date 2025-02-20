@@ -1,0 +1,9 @@
+# window settings
+window-decoration = false
+window-inherit-working-directory = true
+window-theme = dark
+window-save-state = always
+
+# background setting
+background-opacity = 0.8
+
