@@ -24,6 +24,7 @@ do
 	# bash $file
 	# sh $file
 	# eval "$(env -i bash --norc --noprofile -c "source $file; env")"
+	
 	# these were attempts at calling the child script in a way so that they	don't
 	# pollute the parent script. I may come back to it later.
 
